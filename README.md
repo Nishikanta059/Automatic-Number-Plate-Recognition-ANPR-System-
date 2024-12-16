@@ -79,7 +79,7 @@ This ANPR System can be used for:
 Follow these steps to set up the project on your local system:
 
 ### 1. Set Up TensorFlow Object Detection API:
-Follow the TensorFlow Object Detection API setup [guide](https://tensorflow-object-detection-api-tutorial).
+Follow the TensorFlow Object Detection API setup [guide](https://www.tensorflow.org/hub/tutorials/object_detection).
 
 ### 2. Dataset Preparation:
 - Download the **CCPD** dataset:
